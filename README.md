@@ -71,13 +71,13 @@ a_set = set()
 Javascript
 ```javascript
 function add(x, y){
-	return x + y
+    return x + y
 }
 ```
 Python
 ```python
 def add(x, y):
-	return x + y
+    return x + y
 
 ```
 ## Anonymous
@@ -94,7 +94,7 @@ lambda x,y: x + y
 Javascript
 ```javascript
 if(x > 2 && y < 5 || z !== 1){
-	//if body 
+    //if body 
 }else if(x % 2 === 0){
   //else if body
 }else{
